@@ -1,8 +1,8 @@
-# Discovering Rare Genomic Subtypes in Cancer via Unsupervised Autoencoders and Cluster Interpretability
+# Discovering Rare Genomic Subtypes from RNA-seq via Unsupervised Autoencoder Embeddings and Cluster Stability Analysis
 
 This repository contains the code and notebooks for the project:
 
-> **Discovering Rare Genomic Subtypes in Cancer via Unsupervised Autoencoders and Cluster Interpretability**
+> **Discovering Rare Genomic Subtypes from RNA-seq via Unsupervised Autoencoder Embeddings and Cluster Stability Analysis**
 >  *Mezghiche Alaa*, 2025. 
 
 The goal is to use unsupervised deep learning on RNA-seq data to:
