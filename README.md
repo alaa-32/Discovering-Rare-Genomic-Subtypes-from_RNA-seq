@@ -34,7 +34,7 @@ In the repo, the data is expected in a simple CSV format, e.g.:
 - `data.csv` – gene expression matrix (samples × genes)  
 - `labels.csv` – sample IDs and cancer type labels  
 
-(If your filenames are different, update the notebooks accordingly.)
+
 
 ---
 
